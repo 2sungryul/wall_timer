@@ -1,3 +1,3 @@
 # wall_timer
 
-ros2 time event example
+ros2 timer event example
